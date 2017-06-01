@@ -163,7 +163,7 @@
   ],
   "dependencies": {
     "di": "~0.0.1",
-    "socket.io": "^0.9.19",
+    "socket.io": "git://github.com/vaseker/socket.io.git#635d2bd9adf4cc5371630e3e04660d712a4016ee",
     "chokidar": ">=0.8.2",
     "glob": "~3.2.7",
     "minimatch": "~0.2",
